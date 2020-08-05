@@ -1,5 +1,5 @@
 # Data--Compression
-<h1>Data-Compression <h1>
+<h1>Data-Compression </h1>
 Data compression – I write this program using LZW coding and adaptive arithmetic decoding.
 This program using LZW coding and adaptive arithmetic decoding.
 The program is able to do follow procedures:
