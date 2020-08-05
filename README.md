@@ -43,10 +43,12 @@ Input.txt file
 ![image](https://user-images.githubusercontent.com/46463381/89396287-0701ce80-d717-11ea-94af-a9eb4e6e21d1.png)
 
 <br>
+![image](https://user-images.githubusercontent.com/46463381/89396393-2bf64180-d717-11ea-82c8-456bf4c908d6.png)
+<br>
+![image](https://user-images.githubusercontent.com/46463381/89396588-695acf00-d717-11ea-8b71-654e117a7d46.png)
 
 <br>
-
-<br>
+![image](https://user-images.githubusercontent.com/46463381/89396663-81325300-d717-11ea-8945-4f925f4f7b3e.png)
 
 <br>
 
