@@ -56,10 +56,8 @@ Input.txt file
 
 <br>
 
-<br>
+![image](https://user-images.githubusercontent.com/46463381/89396784-a7f08980-d717-11ea-87ab-18690254b476.png)
 
-<br>
 
-<br>
 
 <br>
