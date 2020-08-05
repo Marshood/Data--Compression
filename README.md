@@ -31,4 +31,7 @@ e) Resulting decoded sequence
 f) Java Code
 g) all the requirement files 
 
+<h3>Some output from the program </h3>
+<br>
+Input.txt file 
 
