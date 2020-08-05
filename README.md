@@ -36,3 +36,4 @@ g) all the requirement files
 Input.txt file 
 https://github.com/Marshood/Data--Compression/issues/1#issue-673391566
 
+![image](https://user-images.githubusercontent.com/46463381/89395683-55fb3400-d716-11ea-8103-a04a40ff3925.png)
