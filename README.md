@@ -39,4 +39,7 @@ Input.txt file
 
 
 <br>
+
+![image](https://user-images.githubusercontent.com/46463381/89396287-0701ce80-d717-11ea-94af-a9eb4e6e21d1.png)
+
 <br>
